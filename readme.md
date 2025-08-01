@@ -1,6 +1,10 @@
 🚀 Simple LangChain Chatbot with Groq
 A beginner-friendly chatbot app built using LangChain, Groq’s ultra-fast LLMs, and Streamlit. It demonstrates how to connect a Groq-hosted model like llama3-8b-8192 or gemma2-9b-it with a simple LangChain pipeline to build an interactive chat interface.
 
+![image alt](https://github.com/Ashmit543/Langchain_groq_LLMs_chat_app_with_Streamlit/blob/6ef17e9630e3522b44a25740a970f2a0084a2be7/img1.jpg )
+
+![image alt](https://github.com/Ashmit543/Langchain_groq_LLMs_chat_app_with_Streamlit/blob/6ef17e9630e3522b44a25740a970f2a0084a2be7/img2.jpg )
+
 🧠 Features
 Chat with Groq-hosted LLMs (LLaMA 3 or Gemma 2)
 
